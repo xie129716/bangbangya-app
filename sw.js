@@ -1,7 +1,7 @@
 /* 帮帮鸭 · Service Worker — 应用外壳离线缓存 */
 const CACHE = 'bbq-v1'
 const ASSETS = [
-  './', './index.html', './manifest.webmanifest',
+  './', './index.html', './manifest.json',
   './icons/icon-192.png', './icons/icon-512.png', './icons/maskable-512.png',
   './icons/apple-touch-icon.png'
 ]
